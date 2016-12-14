@@ -1,19 +1,17 @@
 ---
 layout: post
-title: "Prairie - Pirate Bomb 2016"
-date: 2016-09-07
+title: "Hello Beer"
+date: 2016-12-14
 categories:
-  - Stout
-description: 
+description: First Post
 image: /assets/img/beer.jpg
 image-sm: /assets/img/beer.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates quis laudantium culpa sapiente voluptas! Minima odit libero ducimus vitae iure quasi aut optio, accusantium ipsa. Perferendis, quam adipisci. Vero, recusandae!
+Welcome to BrewsToCome,
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et maiores corporis, minus veniam laudantium ex veritatis enim cumque reprehenderit dicta dolorum minima doloremque rem tempore velit asperiores explicabo in esse.
+we'll be publishing stories about new beers and breweries entering the market. So you don't have to check every other website for news.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquid aut perspiciatis repellat odio ipsum, necessitatibus nulla tenetur ex sapiente vitae voluptatem sequi unde nostrum consequatur nemo cumque dolorem voluptas.
+If you have something that we should write about, don't hesitate to contact us. We'll get back to you rather quickly unless we're out drinking.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos voluptatibus quibusdam esse labore deleniti possimus dolorem officia nesciunt, consequuntur incidunt optio accusamus inventore, velit consequatur error maiores mollitia eaque aliquid.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur possimus eveniet esse iste placeat sint quod, veritatis voluptatum minima tempora adipisci atque totam, reiciendis voluptatem, illo sit, inventore consectetur itaque!
+Cheers,
+Tobi & Pietz
