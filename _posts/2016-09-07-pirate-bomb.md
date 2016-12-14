@@ -14,4 +14,5 @@ we'll be publishing stories about new beers and breweries entering the market. S
 If you have something that we should write about, don't hesitate to contact us. We'll get back to you rather quickly unless we're out drinking.
 
 Cheers,
+
 Tobi & Pietz
