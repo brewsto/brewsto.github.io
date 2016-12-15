@@ -10,10 +10,10 @@ title: BrewsToCome
 description: fresh beers on tap
 url: "http://brewsto.com"
 twitter_username: craftery_de
-default_img: https://source.unsplash.com/MYxvETrYabg/1600x900
+default_img:
 
 # Profile settings
-name: 
+name: Tobi & Pietz
 profile_img: 
 profile: 
 social:
