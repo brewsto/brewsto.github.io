@@ -11,7 +11,7 @@ Neues aus der Ratsherrn Brauerei Hamburg!
 
 Die beliebte und limitierte "Barrel Aged Series" bekommt Nachwuchs!
 
-Ganz frisch im Sortiment:
+Ratsherrn kündigte heute folgende Biere an:
 
 "Rémmydemmi": Der Hamburger Senatsbock gereift in Cognacfässern für 6 Monate. Starke 9,3% Vol. treffen auf Aromen von Karamell, Schokolade und Creme Brulée. Rémmydemmi ist verfügbar in 0,75l Flaschen. 
 Limitiert auf nur 700 Flaschen!
