@@ -9,7 +9,7 @@ image-sm: /assets/img/IMG_5126.JPG
 ---
 Neues aus der Ratsherrn Brauerei Hamburg! 
 
-Die beliebte und limitierte Serie der "Barrel Aged Series" bekommt Nachwuchs!
+Die beliebte und limitierte "Barrel Aged Series" bekommt Nachwuchs!
 
 Ganz frisch im Sortiment:
 
