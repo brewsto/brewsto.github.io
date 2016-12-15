@@ -4,8 +4,8 @@ title: "Remmydemmi + Stars & Pipes - Ratsherrn"
 date: 2016-12-15
 categories:
 description: Ratsherrn BA Series
-image: /assets/img/IMG_5126.jpg
-image-sm: /assets/img/IMG_5126.jpg
+image: /assets/img/IMG_5126.JPG
+image-sm: /assets/img/IMG_5126.JPG
 ---
 Neues aus der Ratsherrn Brauerei Hamburg! 
 
