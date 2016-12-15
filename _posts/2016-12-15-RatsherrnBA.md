@@ -16,7 +16,7 @@ Ganz frisch im Sortiment:
 "Rémmydemmi": Der Hamburger Senatsbock gereift in Cognacfässern für 6 Monate. Starke 9,3% Vol. treffen auf Aromen von Karamell, Schokolade und Creme Brulée. Rémmydemmi ist verfügbar in 0,75l Flaschen. 
 Limitiert auf nur 700 Flaschen!
 
-"Stars & Pipes Grand Cuvée": Der Hamburger Senatsbock gereift in Borubon und Islay Whisky Fässern. Starke Vanillenoten treffen auf torfigen Islay Whisky. Verfügbar in 0,75l Flaschen. 
+"Stars & Pipes Grand Cuvée": Ein anspruchsvolles Cuvée des Hamburger Senatsbock gereift in Bourbon und Islay Whisky Fässern. Starke Vanillenoten treffen auf torfigen Islay Whisky. Verfügbar in 0,75l Flaschen. 
 Limitiert auf 1.400 Flaschen!
 
 Diese beiden Biere sind exklusiv im Ratsherrn Craft Beer Store in Hamburg verfügbar.
