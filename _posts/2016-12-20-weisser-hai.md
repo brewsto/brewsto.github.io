@@ -9,7 +9,8 @@ image-sm: /assets/img/beer.jpg
 ---
 Neues von VETO Brauspezialitäten aus der Hopferei Hertrich in Franken. 
 
-Nach dem Schokobär (Stout) und dem Hopfentiger (IPA) folgt jetzt das dritte Bier aus der VETO Serie: der Weisse Hai.
+Nach dem [Schokobär](http://www.hopferei.de/schokobaer/) Stout und dem [Hopfentiger](http://www.hopferei.de/hopfentiger%E2%80%A8/) IPA folgt jetzt das dritte Bier aus der VETO Serie: der Weisse Hai.
+
 Der 6.8% Vol. Weizenbock, gebraut mit Hallertauer Comet Hopfen kommt mit saftigen Noten von Banane, Physalis und erinnert im Abgang an dunkle Johannesbeeren.
 
 Mehr Informationen zum Bier und wo ihr den Weissen Hai findet, gibt es [hier](http://www.hopferei.de/weisserhai/).
