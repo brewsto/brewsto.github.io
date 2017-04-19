@@ -20,3 +20,9 @@ Limitiert auf nur 700 Flaschen!
 Limitiert auf 1.400 Flaschen!
 
 Diese beiden Biere sind exklusiv im Ratsherrn Craft Beer Store in Hamburg verfügbar.
+
+Bier Ratings:
+
+Rémydemmi: [Untappd](https://untappd.com/b/ratsherrn-brauerei-barrel-aged-series-remydemmi/1879902)
+
+Stars & Pipes Grand Cuvée: [Untappd](https://untappd.com/b/ratsherrn-brauerei-barrel-aged-series-stars-n-pipes/1888197)
