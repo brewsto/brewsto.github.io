@@ -16,9 +16,9 @@ Lasst euch den *Matrosenschluck* direkt aus dem [Craft Beer Store Online Shop](h
 
 **Bier Profil:**
 
-Style: Oat White IPA
+###Style: Oat White IPA###
 
-ABV: 6.5%
+###ABV: 6.5%###
 
 [Ratebeer](https://www.ratebeer.com/beer/ratsherrn-matrosenschluck-65/406711/)
 
