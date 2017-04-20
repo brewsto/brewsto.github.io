@@ -11,7 +11,7 @@ Back to the 80's! Kaum wiederzuerkennen im Gewand der 80er Jahre präsentiert si
 
 Ein Chocolate Stout gebraut mit Vanille und Kakao. Mit nur 4.8% ein leichtes Stout, auch geeignet für die seltenen Sommertage in der Hansestadt.
 
-**Bier Profil:*
+**Bier Profil:**
 
 Style: Chocolate Stout
 
