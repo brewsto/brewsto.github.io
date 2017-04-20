@@ -4,8 +4,8 @@ title: "Nightfall - Ratsherrn"
 date: 2017-04-12
 categories:
 description: Nightfall
-image: /assets/img/IMG_7246.JPG
-image-sm: /assets/img/IMG_7246.JPG
+image: /assets/img/beer-1670872_1920.jpg
+image-sm: /assets/img/beer-1670872_1920.jpg
 ---
 Back to the 80's! Kaum wiederzuerkennen im Gewand der 80er Jahre präsentiert sich das neue *Nightfall* aus der Ratsherrn Micro Brewery.
 
