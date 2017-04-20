@@ -7,7 +7,9 @@ description: Lazy in Red
 image: /assets/img/beer-422138_1920.jpg
 image-sm: /assets/img/beer-422138_1920.jpg
 ---
-Eine neue Kreation aus der Ratsherrn Micro Brewery - das "Lazy in Red" Red IPA. Ein fruchtig, herbes Red IPA gebraut mit Centennial, Chinook and Topaz Hopfen.
+Eine neue Kreation aus der Ratsherrn Micro Brewery - das "Lazy in Red" Red IPA. 
+
+Ein fruchtig, herbes Red IPA gebraut mit Centennial, Chinook und Topaz Hopfen.
 
 Finden könnt Ihr das "Lazy in Red" im [Craft Beer Store](https://craftbeerstore.de/) Online Store oder direkt vor Ort in der [Lagerstr. 30a](https://goo.gl/maps/p8hMeJGkoMk).
 
