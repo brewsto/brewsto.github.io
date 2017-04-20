@@ -4,8 +4,8 @@ title: "Hamburger Senatsbock - Ratsherrn"
 date: 2017-01-26
 categories:
 description: Senatsbock
-image: /assets/img/IMG_5126.jpg
-image-sm: /assets/img/IMG_5126.jpg
+image: /assets/img/IMG_5126.JPG
+image-sm: /assets/img/IMG_5126.JPG
 ---
 
 Die Krüge hoch, die Kehlen weit, es ist wieder Senatsbockzeit!
