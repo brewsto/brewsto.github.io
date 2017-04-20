@@ -6,6 +6,7 @@ categories:
 description: Matrosenschluck
 image: /assets/img/beer-820011_1920
 image-sm: /assets/img/beer-820011_1920
+---
 
 Aufgepasst Seute Deerns und seetüchtige Matrosen!
 
