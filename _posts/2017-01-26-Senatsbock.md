@@ -18,7 +18,7 @@ Der Hamburger Senatsbock ist ein kräftiger Doppelbock, gebraut nach traditionel
 
 Tickets für den Senatsbock-Anstich findet ihr [hier](http://www.senatsbock.de/anstich.html), direkt bei [Block Bräu](https://goo.gl/maps/wH372QSVK5w) oder im Ratsherrn [Craft Beer Store](https://goo.gl/maps/iDp2EWrJss82).
 
-Bier Profil:
+**Bier Profil:**
 
 Style: Doppelbock
 
