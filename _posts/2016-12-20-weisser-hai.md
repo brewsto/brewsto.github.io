@@ -15,7 +15,11 @@ Der 6.8% Vol. Weizenbock, gebraut mit Hallertauer Comet Hopfen kommt mit saftige
 
 Mehr Informationen zum Bier und wo ihr den Weissen Hai findet, gibt es [hier](http://www.hopferei.de/weisserhai/).
 
-Bier Ratings:
+**Bier Profil:**
+
+Style: Weizenbock
+
+ABV: 6.8%
 
 [Ratebeer](https://www.ratebeer.com/beer/hopferei-hertrich-veto-weisser-hai/471761/)
 
