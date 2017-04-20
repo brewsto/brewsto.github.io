@@ -4,8 +4,8 @@ title: "Weisser Hai - VETO Brauspezialitäten"
 date: 2016-12-20
 categories:
 description: Weisser Hai
-image: /assets/img/alcohol-1238426_1920.jpg
-image-sm: /assets/img/alcohol-1238426_1920.jpg
+image: /assets/img/IMG_3967.JPG
+image-sm: /assets/img/IMG_3967.JPG
 ---
 Neues von VETO Brauspezialitäten aus der Hopferei Hertrich in Franken. 
 
