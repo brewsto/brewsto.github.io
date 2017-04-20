@@ -1,7 +1,7 @@
 ---
 Layout: post
 title: "Hamburger Senatsbock - Ratsherrn"
-date: 2016-01-26
+date: 2017-01-26
 categories:
 description: Senatsbock
 image: /assets/img/IMG_5126.jpg
