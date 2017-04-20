@@ -4,8 +4,8 @@ title: "Matrosenschluck - Ratsherrn"
 date: 2017-03-01
 categories:
 description: Matrosenschluck
-image: /assets/img/IMG_8865.jpg
-image-sm: /assets/img/IMG_8865.jpg
+image: /assets/img/beer-820011_1920.jpg
+image-sm: /assets/img/beer-820011_1920.jpg
 ---
 
 Aufgepasst Seute Deerns und seetüchtige Matrosen!
