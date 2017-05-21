@@ -17,7 +17,7 @@ Im Brewpub wird es eine Auswahl von fünf festen Bier-Stilen, sowie saisonale Hi
 
 Den Anfang machen das *Original*, ein traditionelles Pilser, das *Pale Ale*, *IPA* und *White IPA*. Das erste saisonale Bier ist das *Spring Ale*.
 
-Das Restaurant überzeugt mit fantastischer Pizza und Salaten im "Soul Food" Stil zu fairen Preisen.
+Das Restaurant überzeugt mit fantastischer Pizza und Salaten im "Soul Food" Stil, zu fairen Preisen.
 
 Mehr Infos zu dem Projekt und den Bieren findet ihr hier:
 
