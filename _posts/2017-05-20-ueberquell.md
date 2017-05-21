@@ -7,7 +7,9 @@ description: Ueberquell
 image: /assets/img/IMG_7709.JPG
 image-sm: /assets/img/IMG_7709.JPG
 ---
-Ja Moin! Neuigkeiten aus der Hansestadt! Eine neue Brauerei lässt sich in den historischen Riverkasematten nieder! Am 20. und 21. Mai findet das Soft-Opening des Brew-Pubs und Restaurants statt. 
+Ja Moin! Neuigkeiten aus der Hansestadt! 
+
+Eine neue Brauerei lässt sich in den historischen Riverkasematten nieder! Am 20. und 21. Mai findet das Soft-Opening des Brew-Pubs und Restaurants statt. 
 
 Hinter ÜberQuell steckt das bekannte Gastro-Duo Patrick Rüther und Axel Ohm, die bereits in den bekannten hamburger Locations "Altes Mädchen" und "Bullerei", ihre Hände mit im Spiel hatten.
 
