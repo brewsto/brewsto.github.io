@@ -21,7 +21,7 @@ Das Restaurant überzeugt mit fantastischer Pizza und Salaten im "Soul Food" Sti
 
 Mehr Infos zu dem Projekt und den Bieren findet ihr hier:
 
-Projekt [Überquell](www.ueberquell.com)
+Projekt [Überquell](http://www.ueberquell.com/)
 
 **Biere**
 
